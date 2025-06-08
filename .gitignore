@@ -1,0 +1,8 @@
+# Hidden Files
+!/.gitignore
+
+# DipTrace Temp Files
+*.dip~
+*.dch~
+*.eli~
+*.lib~
