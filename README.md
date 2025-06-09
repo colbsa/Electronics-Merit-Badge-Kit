@@ -46,7 +46,7 @@ This repository is organized using the following directory structure:
 
 ### 🔓 Open Source Hardware
 
-This project is licensed under the [CERN Open Hardware License Version 2 – Strongly Reciprocal (CERN-OHL-S v2)](https://ohwr.org/cern_ohl_s_v2.txt) and complies with the [Open Source Hardware Definition](https://www.oshwa.org/definition/).
+This project is licensed under the [CERN Open Hardware License Version 2 – Strongly Reciprocal (CERN-OHL-S v2)](https://ohwr.org/cern_ohl_s_v2.txt) and complies with the [Open Source Hardware Definition](https://oshwa.org/resources/open-source-hardware-definition/).
 
 All hardware design files, source code, and documentation are made available to encourage learning, reuse, and improvement.
 
