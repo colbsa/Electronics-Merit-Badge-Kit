@@ -1,0 +1,23 @@
+H optimize n
+
+#
+#Nets names
+#
+$0 COM
+$1 LED_PWR
+$2 SWITCH_OUT
+$3 VCC
+
+#
+#Netlist points
+#
+0 0 0.9376 1.0375 D 0.7008 0.7008 e e staggered 0 0 0 
+0 0.0197 0.8876 1.9 B e e staggered 0 0 0 
+1 0.0197 0.9876 1.9 B e e staggered 0 0 0 
+1 0.0197 1.325 0.3188 B e e staggered 0 0 0 
+2 0.0197 0.925 0.3188 B e e staggered 0 0 0 
+2 0.0197 1.0125 0.125 B e e staggered 0 0 0 
+3 0 1.3876 1.0375 D 0.0984 0.2008 e e staggered 0 0 0 
+3 0 0.4876 1.0375 D 0.0984 0.2008 e e staggered 0 0 0 
+3 0.0197 1.1125 0.125 B e e staggered 0 0 0 
+

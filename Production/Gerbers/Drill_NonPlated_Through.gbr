@@ -1,0 +1,13 @@
+%TF.GenerationSoftware,Novarm,DipTrace,4.3.0.5*%
+%TF.CreationDate,2025-06-08T20:07:48-05:00*%
+%FSLAX26Y26*%
+%MOIN*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.Part,Single*%
+%TA.AperFunction,MechanicalDrill*%
+%ADD28C,0.196*%
+G75*
+G01*
+D28*
+X1030199Y601199D3*
+M02*
