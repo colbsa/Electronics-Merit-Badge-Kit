@@ -50,8 +50,6 @@ This project is licensed under the [CERN Open Hardware License Version 2 – Str
 
 All hardware design files, source code, and documentation are made available to encourage learning, reuse, and improvement.
 
-![Open Source Hardware Logo](https://certification.oshwa.org/assets/logo-certified.svg)
-
 
 ### 📜 License Terms
 
